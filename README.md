@@ -22,11 +22,11 @@ Materials
 	•	Practice 8: Data Augmentation
 	•	Practice 9: Group Exercise
 	•	Practice 10: NLP1
-	•	Practice 11: NLP2
-	•	Practice 12: NLP3
-	•	Practice 13: Dimensionality Reduction
-	•	Practice 14: Clustering
-	•	Practice 15: General Review
+	•	Practice 12: NLP2
+	•	Practice 13: NLP3
+	•	Practice 14: Dimensionality Reduction
+	•	Practice 15: Clustering
+	•	Practice 16: General Review
 
 Links
 
